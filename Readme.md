@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/javascript/19/user/1330039).
-* Наставник: `Юлия Корецкая`.
+* Студент: [Adele Talipova](https://up.htmlacademy.ru/javascript/19/user/1330039).
+* Наставник: [Юлия Корецкая](https://htmlacademy.ru/profile/id11886).
 
 ---
 
